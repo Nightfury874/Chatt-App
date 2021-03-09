@@ -7,7 +7,7 @@
 }
 
 html {
-    font-size: 16px;
+    font-size: 24px;
 }
 
 input {
@@ -16,7 +16,7 @@ input {
 
 body {
     line-height: 1.4;
-    color: #ff0000;
+    color: #fc3f35;
     font-family: Helvetica, Arial, sans-serif;
 }
 
